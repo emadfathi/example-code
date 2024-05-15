@@ -12,6 +12,7 @@ for i in range(2,100):
         pass
     else:
         print (i,end=", ")
-
+c=6
+print (c)
 
 
